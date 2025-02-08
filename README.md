@@ -1,8 +1,9 @@
-## `Hey! Don't you hate these Readmes? I do. So here is another. 💯💯💯🤮🤡`
+## `🤡 Hey! Don't you hate these Readmes? I do. So here is another. 🤡`
+<!-- ## `Hey! Don't you hate these Readmes? 💯💯💯🤮🤡` -->
 
 *disclaimer: WIP - the below sites need some bandwidth. also desktop is recommended because grow up and buy a PC.*
 
-<img src="./stolen.gif" width="100%">
+<!-- <img src="./stolen.gif" width="100%"> -->
 
 ### 👇 `Full-stack - Front-end - Vanilla - UI/UX - Paladin(⚒️⚒️⚒️).`
  - I'm an oldschool nerd.
@@ -21,8 +22,8 @@
 > **[Phase 1](https://veryseriousbusiness.xyz/fend/phase1) - [Phase 2](https://veryseriousbusiness.xyz/fend/phase2) - [Phase 3](https://veryseriousbusiness.xyz/fend/phase3)** - I design in CSS, code. Figma, PS on rainy days.
 > <img src="./stolen.gif" width="100%">
 > <a href="https://veryseriousbusiness.xyz/fend/">
-> <img src="./image 5.png" width="100%">
-> <img src="./banner images.png" width="100%">
+> <img src="./phase-banner.png" width="100%">
+> <img src="./images-banner.png" width="100%">
 ></a>
 >
 > ---
@@ -35,10 +36,10 @@
 >
 > ---
 > **[2024 - Summary](https://veryseriousbusiness.xyz/wrapped/2024/)** - 
-> **[2023 - Summary](https://veryseriousbusiness.xyz/wrapped/2023/)** - I'm working on quick yearly recaps of my stuff, pretty much as a self reference to know what I wasted my life on so far.
+> **[2023 - Summary](https://veryseriousbusiness.xyz/wrapped/2023/)** - WIP - Wrapped series.
 > <img src="./stolen.gif" width="100%">
 > <a href="https://veryseriousbusiness.xyz/wrapped/">
-> <img src="./image 6.png" width="100%">
+> <img src="./wrapped-banner.png" width="100%">
 > </a>
 >
 > ---
@@ -53,7 +54,7 @@
 > ---
 > **[birdonathree](https://birdonathree.com/three/)** - site for my threeJS insanity
 ><img src="./stolen.gif" width="100%">
-><img src="./image 7.png" width="100%">
+><img src="./three-banner.png" width="100%">
 >
 > - Dump site for comps and heroes **[veryseriousbusiness/heroez/](https://veryseriousbusiness.xyz/heroez/)**
 > - Dump site for comps and heroes **[veryseriousbusiness/stuffz/](https://veryseriousbusiness.xyz/stuffz/)**
