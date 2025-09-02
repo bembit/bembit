@@ -1,21 +1,17 @@
-### **_Part-time Designer, part-time Software Engineer, full-time Nerd._**
-
-<!-- <img src="./stolen.gif" width="100%"> -->
+<!-- ### **_Part-time Designer, part-time Software Engineer, full-time Nerd._** -->
 
 > ---
 >
-> <img src="./stolen.gif" width="100%">
+> ### **_Part-time Designer, part-time Software Engineer, full-time Nerd._**
 >
-> ### <code><img style="height: 35px;" src="./logos/node.png"></code> `Full-stack, JavaScript` <code><img style="height: 35px;" src="./logos/react3.png"></code>
+> `Front-end, Full-stack, JavaScript` <img src="./stolen.gif" width="100%">
 >
-> `Former wheel reinventor @Corporate. Ex-Site builder, Ex-Sysadmin, Ex-SQL developer. Hobby game dev.`
+> ### <code><img style="height: 3.5rem;" src="./logos/node.png"></code> <code><img style="height: 3.5rem;" src="./logos/bun.png"></code> <code><img style="height: 3.5rem;" src="./logos/vite.png"></code> <code><img style="height: 3.5rem;" src="./logos/js.png"></code> <code><img style="height: 3.5rem;" src="./logos/react.png"></code> <code><img style="height: 3.5rem;" src="./logos/ts.png"></code> <code><img style="height: 3.5rem;" src="./logos/astro.png"></code>
 >
-> `Swearing in readmes and opening PRs on myself. As God intended GH to be used.`
+> `Ex-Site builder, Ex-Sysadmin, Ex-SQL developer. Hobby ThreeJS dev.`
 >
 > <img src="./stolen.gif" width="100%">
 >
 > ---
 
-<!-- <img src="./stolen.gif" width="100%"> -->
-
-_- professional markdown designer_
+<!-- _- professional markdown designer_ -->
